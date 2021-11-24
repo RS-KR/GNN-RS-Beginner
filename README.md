@@ -9,8 +9,8 @@ Table of Contents
 
 - [진행방식](#진행방식)
 - [Schedule](#schedule)
-  * [1. Understanding Convolutions on Graphs](#1-ot--understanding-convolutions-on-graphs)
-  * [2. Why GNN? &amp; Survey](#2-why-gnn--survey)
+  * [1. OT + Understanding Convolutions on Graphs](#1-ot--understanding-convolutions-on-graphs)
+  * [2. Why GNN for RS? &amp; Survey](#2-why-gnn-for-rs--survey)
   * [3. Neural Graph Collaborative Filtering](#3-neural-graph-collaborative-filtering)
   * [4. LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation](#4-lightgcn-simplifying-and-powering-graph-convolution-network-for-recommendation)
   * [5. Inductive Representation Learning on Large Graphs](#5-inductive-representation-learning-on-large-graphs)
@@ -44,7 +44,7 @@ Table of Contents
 
 
 
-### 2. Why GNN? & Survey
+### 2. Why GNN for RS? & Survey
 
 - Learning and Reasoning on Graph for Recommendation
   - [PDF](https://next-nus.github.io/slides/tuto-cikm2019-public.pdf?fbclid=IwAR2hkJIQBsav5KalKqLQ3oBiIXfvbJ5-h5zxsydeHxjGQ5mvxxF_WuV-jNw)
