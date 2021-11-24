@@ -4,8 +4,9 @@
 
 *Keword: Why GNN?, Survey, GCN, CF, Inductive Learning, Web-Scale, Graph Attention, Knowledge*
 
-Table of Contents
-=================
+<details>
+<summary><strong>Table of Contents</strong></summary>
+
 
 - [진행방식](#진행방식)
 - [Schedule](#schedule)
@@ -17,8 +18,9 @@ Table of Contents
   * [6. Graph Convolutional Neural Networks for Web-Scale Recommender Systems](#6-graph-convolutional-neural-networks-for-web-scale-recommender-systems)
   * [7. Graph Attention Networks](#7-graph-attention-networks)
   * [8. KGAT: Knowledge Graph Attention Network for Recommendation](#8-kgat-knowledge-graph-attention-network-for-recommendation)
-  * [9. Selected Paper or Hands-on Session](#9-selected-paper-or-hands-on-session)
+  * [9. Selected Paper or Hands-on Session](#910-selected-paper-or-hands-on-session)
 * [Furthermore](#furthermore)
+</details>
 
 # 진행방식
 
