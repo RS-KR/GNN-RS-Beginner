@@ -4,6 +4,20 @@
 
 *Keword: Why GNN?, Survey, GCN, CF, Inductive Learning, Web-Scale, Graph Attention, Knowledge*
 
+Table of Contents
+=================
+
+- [Schedule](#schedule)
+  * [1. Understanding Convolutions on Graphs](#1-understanding-convolutions-on-graphs)
+  * [2. Why GNN? &amp; Survey](#2-why-gnn--survey)
+  * [3. Neural Graph Collaborative Filtering](#3-neural-graph-collaborative-filtering)
+  * [4. LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation](#4-lightgcn-simplifying-and-powering-graph-convolution-network-for-recommendation)
+  * [5. Inductive Representation Learning on Large Graphs](#5-inductive-representation-learning-on-large-graphs)
+  * [6. Graph Convolutional Neural Networks for Web-Scale Recommender Systems](#6-graph-convolutional-neural-networks-for-web-scale-recommender-systems)
+  * [7. Graph Attention Networks](#7-graph-attention-networks)
+  * [8. KGAT: Knowledge Graph Attention Network for Recommendation](#8-kgat-knowledge-graph-attention-network-for-recommendation)
+  * [9. Selected Paper or Hands-on Session](#9-selected-paper-or-hands-on-session)
+* [Furthermore](#furthermore)
 
 
 # Schedule
