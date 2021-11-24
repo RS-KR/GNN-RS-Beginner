@@ -1,8 +1,9 @@
 # GNN-RS-Beginner
-
 > 넓고 얕게 GNN 기반 추천 훑어보기
+<br>
 
-*Keword: Why GNN?, Survey, GCN, CF, Inductive Learning, Web-Scale, Graph Attention, Knowledge*
+**Keword**: Why GNN?, Survey, GCN, CF, Inductive Learning, Web-Scale, Graph Attention, Knowledge Graph
+
 
 <details>
 <summary><strong>Table of Contents</strong></summary>
@@ -18,9 +19,11 @@
   * [6. Graph Convolutional Neural Networks for Web-Scale Recommender Systems](#6-graph-convolutional-neural-networks-for-web-scale-recommender-systems)
   * [7. Graph Attention Networks](#7-graph-attention-networks)
   * [8. KGAT: Knowledge Graph Attention Network for Recommendation](#8-kgat-knowledge-graph-attention-network-for-recommendation)
-  * [9. Selected Paper or Hands-on Session](#910-selected-paper-or-hands-on-session)
+  * [9~10. Selected Paper or Hands-on Session](#910-selected-paper-or-hands-on-session)
 * [Furthermore](#furthermore)
 </details>
+
+<br>
 
 # 진행방식
 
@@ -36,6 +39,7 @@
 
 - 진행에 대한 구성원의 의견을 적극적으로 반영합니다.
 
+<br>
 
 # Schedule
 
@@ -111,11 +115,7 @@
 
 - 투표!
 
-
-
-
-
-
+<br>
 
 # Furthermore
 
@@ -124,7 +124,3 @@
 - [Paper](https://openreview.net/forum?id=SJU4ayYgl)
 
 - [Resource](https://www.youtube.com/watch?v=F-JPKccMP7k)
-
-
-
-### 
