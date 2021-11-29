@@ -73,6 +73,8 @@
 
 - [Paper](https://arxiv.org/abs/2002.02126)
 - Resource : None
+- 추가자료
+  - UltraGCN: Ultra Simplification of Graph Convolutional Networks for Recommendation
 
 
 
