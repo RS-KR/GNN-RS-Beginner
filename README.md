@@ -28,7 +28,7 @@
 # 진행방식
 
 - Resource를 각자 보고 옵니다. 1, 2주차를 제외하고는 꼭 논문을 읽고 오지 않아도 됩니다.
-- 사전에 질문이나 이야기해볼 거리를 Issue에 남깁니다. (곧 템플릿과 태그, 사용법을 남기겠습니다.)
+- 사전에 질문이나 이야기해볼 거리를 Issue에 남깁니다.
 - 전체적으로 이해가 안 갈 경우 사전에 신청받아 자세한 설명을 하는 시간을 갖습니다.
 - 진행 시간은 1시간을 기본으로 합니다.
 
@@ -46,7 +46,7 @@
 ### 1. OT + Understanding Convolutions on Graphs
 
 - [Link](https://distill.pub/2021/understanding-gnns/)
-- Question
+- [토론 내용](https://github.com/RS-KR/GNN-RS-Beginner/labels/understanding-gnns)
 
 
 
