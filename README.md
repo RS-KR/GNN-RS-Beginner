@@ -61,15 +61,17 @@
 
 ### 3. Neural Graph Collaborative Filtering
 
-- [Paper](https://arxiv.org/abs/1905.08108)
+- [Paper](https://arxiv.org/abs/1905.08108), 인용수 555이상, SIGIR'19
 - [Resource](https://www.youtube.com/watch?v=ce0LrvVblCU)
+- Code: [torch](https://github.com/RUCAIBox/RecBole/blob/master/recbole/model/general_recommender/ngcf.py)
 
 <br>
 
 ### 4. LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation
 
-- [Paper](https://arxiv.org/abs/2002.02126)
+- [Paper](https://arxiv.org/abs/2002.02126), 인용수 313이상, SIGIR'20
 - Resource : None
+- Code: [torch](https://github.com/RUCAIBox/RecBole/blob/master/recbole/model/general_recommender/lightgcn.py)
 - 추가자료
   - UltraGCN: Ultra Simplification of Graph Convolutional Networks for Recommendation
 
