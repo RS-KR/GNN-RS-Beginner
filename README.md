@@ -62,7 +62,7 @@
 ### 3. Neural Graph Collaborative Filtering
 
 - [Paper](https://arxiv.org/abs/1905.08108), 인용수 555이상, SIGIR'19
-- [Resource](https://www.youtube.com/watch?v=ce0LrvVblCU)
+- [video](https://www.youtube.com/watch?v=ce0LrvVblCU), [slide](https://www.slideshare.net/taeseonryu/neural-graph-collaborative-filtering-paper-review?qid=de05d94d-a9ab-4565-b21e-19ce6937f028&v=&b=&from_search=9)
 - Code: [torch](https://github.com/RUCAIBox/RecBole/blob/master/recbole/model/general_recommender/ngcf.py)
 
 <br>
