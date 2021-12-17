@@ -70,7 +70,7 @@
 ### 4. LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation
 
 - [Paper](https://arxiv.org/abs/2002.02126), 인용수 313이상, SIGIR'20
-- Resource : None
+- [Resource](https://www.youtube.com/watch?v=5Wy-DL6tdkU&list=PLk2rTgnuPEyL80AjiSbCZLkivdUBWEMRV), [Slide](https://www.slideshare.net/ceradam/paperreview-lightgcn-simplifying-and-powering-graph-convolution-network-for-recommendation)
 - Code: [torch](https://github.com/RUCAIBox/RecBole/blob/master/recbole/model/general_recommender/lightgcn.py)
 - 추가자료
   - UltraGCN: Ultra Simplification of Graph Convolutional Networks for Recommendation
