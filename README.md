@@ -79,7 +79,7 @@
 
 ### 5. Inductive Representation Learning on Large Graphs
 
-- GraphSage
+- GraphSAGE: Graph SAmpling and aggreGatE
 
 - [Paper](https://arxiv.org/abs/1706.02216)
 - [Resource](https://www.youtube.com/watch?v=rGn3bmoxnJU)
