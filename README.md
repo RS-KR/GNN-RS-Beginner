@@ -94,7 +94,7 @@
 
 - [Resource](https://www.youtube.com/watch?v=ZFz6f3ObPys)
 - 추가자료
- - [pixie](https://www.youtube.com/watch?v=qTfeWt95EmQ)
+  - [pixie](https://www.youtube.com/watch?v=qTfeWt95EmQ)
 
 <br>
 
