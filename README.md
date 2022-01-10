@@ -82,7 +82,7 @@
 - GraphSAGE: Graph SAmpling and aggreGatE
 
 - [Paper](https://arxiv.org/abs/1706.02216)
-- [Resource](https://www.youtube.com/watch?v=rGn3bmoxnJU)
+- [Resource1](https://www.youtube.com/watch?v=rGn3bmoxnJU), [Resource2](https://www.youtube.com/watch?v=y52qSiGOhbs)
 
 <br>
 
@@ -92,7 +92,7 @@
 
 - [Paper](https://arxiv.org/abs/1806.01973)
 
-- [Resource](https://www.youtube.com/watch?v=ZFz6f3ObPys)
+- [Resource](https://www.youtube.com/watch?v=ZFz6f3ObPys), [Resource2](https://www.youtube.com/watch?v=y52qSiGOhbs)
 - 추가자료
   - [pixie](https://www.youtube.com/watch?v=qTfeWt95EmQ)
 
