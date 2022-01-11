@@ -127,3 +127,6 @@
 - [Paper](https://openreview.net/forum?id=SJU4ayYgl)
 
 - [Resource](https://www.youtube.com/watch?v=F-JPKccMP7k)
+
+### [Paper Review] Knowledge graph representation for recommendation
+- [link](https://youtu.be/prX2p9S8C1U)
