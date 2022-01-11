@@ -103,7 +103,7 @@
 - GAT
 
 - [Paper](https://arxiv.org/abs/1710.10903)
-- [Resource](https://www.youtube.com/watch?v=shdNuppfClU)
+- [Resource](https://www.youtube.com/watch?v=shdNuppfClU), [Resource2](https://youtu.be/w4YDI715DG0)
 
 <br>
 
