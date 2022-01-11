@@ -92,7 +92,7 @@
 
 - [Paper](https://arxiv.org/abs/1806.01973)
 
-- [Resource](https://www.youtube.com/watch?v=ZFz6f3ObPys), [Resource2](https://www.youtube.com/watch?v=y52qSiGOhbs)
+- [Resource](https://www.youtube.com/watch?v=ZFz6f3ObPys), [Resource2](https://youtu.be/y52qSiGOhbs?t=1419)
 - 추가자료
   - [pixie](https://www.youtube.com/watch?v=qTfeWt95EmQ)
 
