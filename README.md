@@ -17,22 +17,17 @@
   * [6. Graph Convolutional Neural Networks for Web-Scale Recommender Systems](#6-graph-convolutional-neural-networks-for-web-scale-recommender-systems)
   * [7. Graph Attention Networks](#7-graph-attention-networks)
   * [8. KGAT: Knowledge Graph Attention Network for Recommendation](#8-kgat-knowledge-graph-attention-network-for-recommendation)
-  * [9~10. Selected Paper or Hands-on Session](#910-selected-paper-or-hands-on-session)
+  * [9. Selected Paper or Hands-on Session](#910-selected-paper-or-hands-on-session)
+  * [10. Pytorch Geometric / Bundle Recommendation](#10-pytorch--geometric-bundle-recommendation)
 * [Furthermore](#furthermore)
 </details>
 <details>
 <summary><strong>진행방식</strong></summary>
  
-- Resource를 각자 보고 옵니다. 1, 2주차를 제외하고는 논문은 읽고 오지 않아도 됩니다.
+- Resource를 각자 보고 옵니다.
 - 사전에 질문이나 이야기해볼 거리를 Issue에 남깁니다.
-- 전체적으로 이해가 안 갈 경우 사전에 신청받아 자세한 설명을 하는 시간을 갖습니다.
 - 진행 시간은 1시간을 기본으로 합니다.
-- 4주차, 8주차에는 참고할만한 영상이 없습니다. 지원자를 받아 발표 영상을 사전에 만듭니다.
-- 9~10주차에는 
-  - 2주차에 본 Survey에 소개된 분야에서 관심 있는 주제를 지원자를 받아 발표하거나
-  - *[PyTorch Geometric](https://pytorch-geometric.readthedocs.io/en/latest/)*, *[TensorFlow GNN](https://github.com/tensorflow/gnn)*, *[DEEP GRAPH LIBRARY](https://www.dgl.ai)* 핸즈온 세션을 진행합니다.
-
-- 진행에 대한 구성원의 의견을 적극적으로 반영합니다.
+- 구성원의 의견을 적극적으로 반영합니다.
 
 </details>
 
@@ -108,18 +103,24 @@
 <br>
 
 ### 8. KGAT: Knowledge Graph Attention Network for Recommendation
-
+- 인용수 508회 이상
 - [Paper](https://arxiv.org/abs/1905.07854), [Video](https://www.youtube.com/watch?v=I4mt5bP-IcQ)
 - Code: [tf 1.12](https://github.com/xiangwang1223/knowledge_graph_attention_network), [torch 1.3](https://github.com/LunaBlack/KGAT-pytorch)
 
 <br>
 
-### 9~10. Selected Paper or Hands-on Session
+### 9. Selected Paper
 
-- 투표!
 
-<br>,
- urthermore
+### 10. Pytorch Geometric / Bundle Recommendation
+- PyG
+  - [Docs](https://pytorch-geometric.readthedocs.io/en/latest/)
+- Bundle Recommendation with Graph Convolutional Networks 
+  - [paper](https://arxiv.org/abs/2005.03475)
+
+
+
+# Furthermore
 
 ### Semi-Supervised Classification with Graph Convolutional Networks
 
