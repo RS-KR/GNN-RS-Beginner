@@ -109,8 +109,8 @@
 
 ### 8. KGAT: Knowledge Graph Attention Network for Recommendation
 
-- [Paper](https://arxiv.org/abs/1905.07854)
-- Resource: None
+- [Paper](https://arxiv.org/abs/1905.07854), [Video](https://www.youtube.com/watch?v=I4mt5bP-IcQ)
+- Code: [tf 1.12](https://github.com/xiangwang1223/knowledge_graph_attention_network), [torch 1.3](https://github.com/LunaBlack/KGAT-pytorch)
 
 <br>
 
@@ -118,9 +118,8 @@
 
 - 투표!
 
-<br>
-
-# Furthermore
+<br>,
+ urthermore
 
 ### Semi-Supervised Classification with Graph Convolutional Networks
 
