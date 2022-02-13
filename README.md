@@ -17,8 +17,8 @@
   * [6. Graph Convolutional Neural Networks for Web-Scale Recommender Systems](#6-graph-convolutional-neural-networks-for-web-scale-recommender-systems)
   * [7. Graph Attention Networks](#7-graph-attention-networks)
   * [8. KGAT: Knowledge Graph Attention Network for Recommendation](#8-kgat-knowledge-graph-attention-network-for-recommendation)
-  * [9. Selected Paper or Hands-on Session](#910-selected-paper-or-hands-on-session)
-  * [10. Pytorch Geometric / Bundle Recommendation](#10-pytorch--geometric-bundle-recommendation)
+  * [9. Cross Domain &amp; Session based Recommendation](#9-cross-domain--session-based-recommendation)
+  * [10. Pytorch Geometric &amp; Bundle Recommendation](#10-pytorch-geometric--bundle-recommendation)
 * [Furthermore](#furthermore)
 </details>
 <details>
@@ -27,7 +27,6 @@
 - Resource를 각자 보고 옵니다.
 - 사전에 질문이나 이야기해볼 거리를 Issue에 남깁니다.
 - 진행 시간은 1시간을 기본으로 합니다.
-- 구성원의 의견을 적극적으로 반영합니다.
 
 </details>
 
@@ -109,10 +108,15 @@
 
 <br>
 
-### 9. Selected Paper
+### 9. Cross Domain &amp; Session based Recommendation
+- GNN으로 Cross-Domain 맛보기
+  - [발표자료](./assets/cross-domain.pdf) by 박지민
+  - PPGN : Cross-Domain Recommendation via Preference Propagation GraphNet, [Paper](https://dl.acm.org/doi/10.1145/3357384.3358166)
+- GNN in Session-based Recommendation
+  - [발표자료](./assets/session-based.pdf) by 진승욱
+  - SR-GNN, Session-based Recommendation with Graph Neural Networks, [Paper](https://arxiv.org/abs/1811.00855)
 
-
-### 10. Pytorch Geometric / Bundle Recommendation
+### 10. Pytorch Geometric & Bundle Recommendation
 - PyG
   - [Docs](https://pytorch-geometric.readthedocs.io/en/latest/)
 - Bundle Recommendation with Graph Convolutional Networks 
